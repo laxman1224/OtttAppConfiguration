@@ -1,0 +1,2 @@
+# OtttAppConfiguration
+Configuration for microservices
